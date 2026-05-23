@@ -1,7 +1,7 @@
 # Datenschutzerklärung – Little Helper
 
 **Stand:** Mai 2026  
-**Verantwortlicher:** [Dein Name / Unternehmensname], [Adresse] – [E-Mail]
+**Verantwortlicher:** Felix Hansmeier, Horstmarer Landweg 84, 48149 Münster – support@littlehelper.app
 
 ---
 
@@ -86,12 +86,29 @@ Little Helper richtet sich nicht an Kinder unter 13 Jahren. Es werden keine Date
 
 ## 9. Änderungen dieser Erklärung
 
-Änderungen an dieser Datenschutzerklärung werden in der App kommuniziert. Die aktuell gültige Version ist immer unter [https://littlehelper.app/privacy](https://littlehelper.app/privacy) abrufbar.
+Änderungen an dieser Datenschutzerklärung werden in der App kommuniziert. Die aktuell gültige Version ist immer unter [https://flix1323.github.io/little-helper-legal](https://flix1323.github.io/little-helper-legal) abrufbar.
 
 ---
 
 ## 10. Kontakt
 
 Bei Fragen zum Datenschutz:  
-**E-Mail:** support@littlehelper.app  
-<!-- TODO: Adresse und ggf. Impressum ergänzen (bei EU-Nutzern gesetzlich erforderlich) -->
+**E-Mail:** support@littlehelper.app
+
+---
+
+## 11. Impressum
+
+**Angaben gemäß § 5 TMG:**
+
+Felix Hansmeier  
+Horstmarer Landweg 84  
+48149 Münster  
+Deutschland
+
+**Kontakt:**  
+E-Mail: support@littlehelper.app  
+Telefon: 015678 336495
+
+**Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV:**  
+Felix Hansmeier, Horstmarer Landweg 84, 48149 Münster

@@ -108,7 +108,7 @@ Deutschland
 
 **Kontakt:**  
 E-Mail: support@littlehelper.app  
-Telefon: [Telefonnummer eintragen]
+Telefon: 015678 336495
 
 **Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV:**  
 Felix Hansmeier, Horstmarer Landweg 84, 48149 Münster

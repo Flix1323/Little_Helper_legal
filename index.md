@@ -1,7 +1,7 @@
 # Datenschutzerklärung – Little Helper
 
 **Stand:** Mai 2026  
-**Verantwortlicher:** Felix Hansmeier, Horstmarer Landweg 84, 48149 Münster – support@littlehelper.app
+**Verantwortlicher:** Felix Hansmeier, Horstmarer Landweg 84, 48149 Münster – support@littlehelper.anonaddy.com
 
 ---
 
@@ -93,7 +93,7 @@ Little Helper richtet sich nicht an Kinder unter 13 Jahren. Es werden keine Date
 ## 10. Kontakt
 
 Bei Fragen zum Datenschutz:  
-**E-Mail:** support@littlehelper.app
+**E-Mail:** legal@littlehelper.anonaddy.com
 
 ---
 
@@ -107,7 +107,7 @@ Horstmarer Landweg 84
 Deutschland
 
 **Kontakt:**  
-E-Mail: support@littlehelper.app  
+E-Mail: support@littlehelper.anonaddy.com 
 Telefon: 015678 336495
 
 **Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV:**  
